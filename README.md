@@ -1,5 +1,5 @@
 # Building a Simple Calculator using React-JS
-Building a dynamic calculator using react that handles input changes, user Intraction, adn complec calculation.
+Building a dynamic calculator using react that handles input changes, user Intraction, and complete calculation.
 ## Concepts used in this Project
 it focuse on some of the most importent react concepts, such as re-renders, state management, and breaking down of the code into components.
 
